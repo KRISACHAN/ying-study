@@ -1,15 +1,31 @@
 # ying-study
+
 > * 作者：陈大鱼头
 > * github：https://github.com/KRISACHAN
 
 ## 前言
 
-本库会以issue的形式作一个学习记录，每个知识点会新开个issue，有兴趣的童鞋可以一起学习，或者成为共建者一起添加issue~
+本库会以 **issues** 的形式记录一些有意思的知识点以及常见的面试题，有兴趣的亲欢迎 **star**，**fork**，**watch** 三连~
 
-## 记录列表
+## 知识点列表
 
-1. [什么是时间分片.md](./1.%20什么是时间分片.md)
-2. [JavaScript实现指定数量的并发限制.md](./1.%20JavaScript实现指定数量的并发限制.md)
+1. [什么是时间分片.md](https://github.com/KRISACHAN/ying-study/issues/1)
+2. [JavaScript实现指定数量的并发限制.md](https://github.com/KRISACHAN/ying-study/issues/2)
+
+## 题目列表
+
+1. [3. 一道排列组合的面试题](https://github.com/KRISACHAN/ying-study/issues/3)
+2. [4. 一道数组转对象的面试题](https://github.com/KRISACHAN/ying-study/issues/4)
+3. [5. 一道字符串处理的面试题](https://github.com/KRISACHAN/ying-study/issues/5)
+4. [6. 一道数组面试题](https://github.com/KRISACHAN/ying-study/issues/6)
+5. [7. 一道对象面试题](https://github.com/KRISACHAN/ying-study/issues/7)
+6. [8. 模拟call、apply、bind、new](https://github.com/KRISACHAN/ying-study/issues/8)
+7. [9. 一道数据输出的面试题](https://github.com/KRISACHAN/ying-study/issues/9)
+8. [10. 一道异步相关的面试题](https://github.com/KRISACHAN/ying-study/issues/10)
+9. [11. 一道数据互转面试题](https://github.com/KRISACHAN/ying-study/issues/11)
+
+
+
 
 ## 后记
 
