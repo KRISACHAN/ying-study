@@ -1,6 +1,6 @@
 const czConfig = {
     types: [
-        { value: 'feat', name: '特性: 新增一个题目' },
+        { value: 'feat', name: '特性: 新增一个题库/题目/功能' },
         { value: 'fix', name: '修复: 修复一个Bug' },
         { value: 'docs', name: '文档: 文档变更' },
         { value: 'test', name: '测试: 测试代码' },
@@ -17,7 +17,12 @@ const czConfig = {
             name: '回退: 代码回退',
         },
     ],
-    scopes: [{ name: 'config' }, { name: 'tests' }, { name: 'readme' }],
+    scopes: [
+        { name: 'config' },
+        { name: 'tests' },
+        { name: 'readme' },
+        { name: 'src' },
+    ],
     messages: {
         type: '选择一种你的提交类型:',
         scope: '选择一个scope (可选):',
