@@ -1,4 +1,6 @@
-# 前端面试题集
+# 前端题集
+
+> 准备本库的目的不是为了面试，或者说不仅仅是为了面试，而是保持职业技能的鲜活度，不至于落后于行业中。
 
 1. [JS/TS 手写题](./src/handwriting/README.md)
 2. [类型体操](./src/type-challenges/README.md)
